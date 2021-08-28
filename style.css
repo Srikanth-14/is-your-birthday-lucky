@@ -65,28 +65,3 @@ h1 {
     display: inline;
     padding: 0rem 0.5rem;
 }
-
-.footer {
-    position: relative;
-
-    padding: 2rem 0rem;
-    text-align: center;
-    color: var(--primary-light);
-    width: 100vw;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.footer .link1 {
-    color: white;
-}
-
-.footer .footer-header {
-    font-weight: bold;
-    font-size: large;
-}
-
-.footer ul {
-    padding-inline-start: 0px;
-}
